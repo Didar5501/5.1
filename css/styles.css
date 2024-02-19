@@ -695,9 +695,7 @@ display:flex
     letter-spacing: -0.01em;
     text-align: left;
     margin-top: 30%;
-    background-image: linear-gradient(0deg, #22356F, #22356F), linear-gradient(0deg, #6CD3E1, #6CD3E1);
-    -webkit-background-clip: text; /* для поддержки вебкит-браузеров */
-    color: transparent; /* делаем текст прозрачным */
+    font-weight: 600;
   }
 
   .p4b2c-btn{
@@ -723,7 +721,9 @@ display:flex
 
   .color2{
     color: #6CD3E1;
+    font-family:  'Lato', sans-serif;
   }
   .p4b2c-btn span{
     font-weight: 60800;
+    font-family:  'Lato', sans-serif;
   }
